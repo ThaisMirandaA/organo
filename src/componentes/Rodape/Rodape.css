@@ -1,0 +1,42 @@
+.footer {
+    background-color: #6278F7;
+    max-width: 100%;
+    height: 213px;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-around;
+    align-items: center;
+    color: #FFF;
+}
+
+.footer .imagem-fundo-triangulo {
+    position: absolute;
+    margin: 100px 1400px 0px 0px; 
+}
+
+.footer .imagem-fundo-triangulo-deitado {
+    position: absolute;
+    margin: 50px 450px 0px 0px; 
+}
+
+.footer .imagem-fundo-circulo {
+    position: absolute;
+    margin: 0px 0px 80px 400px;
+}
+
+.footer .imagem-fundo-circulo-cortado {
+    position: absolute;
+    margin: 120px 0px 0px 1440px;
+}
+
+.footer .redes-sociais {
+    display: flex;
+    width: 200px;
+    justify-content: space-between;
+}
+
+.footer .logo-organo {
+    display: flex;
+    margin-left: 100px;
+}
