@@ -13,3 +13,12 @@
     flex: 1;
     box-shadow: 8px 8px 16px rgba(0, 0, 0, 0.08);
 }
+
+.botao-add {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    position:relative;
+    left: 1380px;
+    top:100px
+}
